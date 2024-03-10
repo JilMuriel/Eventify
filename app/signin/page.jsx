@@ -7,7 +7,7 @@ const page = () => {
       <div className="flex item-center justify-center w-full mt-[20px]">
         <div className='border-[1px] border-[#E0E0E0] bg-[#FFFFFF] min-w-[572px] shadow-2xl'>
           <h1 className="mt-10 mb-6 font-sans text-[40px] font-semibold leading-9 tracking-tighter text-center">Sign up
-            to Eventify</h1>
+            to Eventify Hello hotdog</h1>
           <p className="font-'Zen Kaku Gothic Antique' text-[13px] text-center text-[#757575] mb-[32px]">Quick & Simple way to join events</p>
 
           <div className='max-w-[380px] mx-auto mb-5'>
