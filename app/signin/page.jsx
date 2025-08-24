@@ -1,4 +1,3 @@
-import React from 'react'
 import AuthLayout from '../components/auth/authLayout'
 
 const page = () => {
